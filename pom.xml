@@ -30,16 +30,16 @@
      
 
     <scm>
-        <connection>scm:git:https://github.com/ugesh12345/Maven-Java-Project.git</connection>
-        <developerConnection>scm:git:https://github.com/ugesh12345/Maven-Java-Project.git</developerConnection>
+        <connection>scm:git:https://github.com/subbs28/Maven-Java-Project.git</connection>
+        <developerConnection>scm:git:https://github.com/subbs28/Maven-Java-Project.git</developerConnection>
         <tag>HEAD</tag>
-        <url>https://github.com/ugesh12345/Maven-Java-Project.git</url>
+        <url>https://github.com/subbs28/Maven-Java-Project.git</url>
     </scm>
 	
     <issueManagement>
         <system>GitHub
 	    </system>
-        <url>https://https://github.com/ugesh12345/Maven-Java-Project.git</url>
+        <url>https://https://github.com/subbs28/Maven-Java-Project.git</url>
     </issueManagement>
 	
 	
