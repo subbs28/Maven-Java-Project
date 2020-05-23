@@ -16,7 +16,7 @@
 	    <spring.version>4.1.4.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-	 	<sonar.host.url>http://34.229.197.22:9000/</sonar.host.url>
+	 	<sonar.host.url>http://18.212.132.51:9000/</sonar.host.url>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
@@ -106,12 +106,12 @@
 	<repository>
 	<id>nexus</id>
 	<name>DevOpsTools</name>
-	<url>http://34.229.197.22:8081/repository/Maven-JavaRelease/</url>
+	<url>http://18.212.132.51:8081/repository/Maven-JavaRelease/</url>
 	</repository>
 	<snapshotRepository>
 	<id>nexus</id>
 	<name>DevOpsToolSnapshot</name>
-	<url>http://34.229.197.22:8081/repository/Maven-JavaSnapshot/</url>
+	<url>http://18.212.132.51:8081/repository/Maven-JavaSnapshot/</url>
 	</snapshotRepository>
 	</distributionManagement>
 
