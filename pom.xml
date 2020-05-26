@@ -102,7 +102,18 @@
 		-->
   </dependencies>
 
-
+	<distributionManagement>
+	<repository>
+	<id>nexus</id>
+	<name>DevOpsTools</name>
+	<url>http://18.208.186.253:8081/repository/Maven-JavaRelease/</url>
+	</repository>
+	<snapshotRepository>
+	<id>nexus</id>
+	<name>DevOpsToolSnapshot</name>
+	<url>http://18.208.186.253:8081/repository/Maven-JavaSnapshot/</url>
+	</snapshotRepository>
+	</distributionManagement>
 
    <profiles>
         <profile>
